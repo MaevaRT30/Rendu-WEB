@@ -8631,11 +8631,11 @@ input, select, textarea {
 			}
 
 	        #page-bibliographie {
-				background-color: #ffffff; /* Fond de page spécifique */
+				background-color: #ffffff; 
 			}
 			
 			#page-bibliographie header {
-				background-color: #7794ce; /* En-tête vert spécifique */
+				background-color: #7794ce; 
 				color: white;
 				text-align: center;
 				padding: 20px 0;
@@ -8646,7 +8646,7 @@ input, select, textarea {
 			}
 			
 			#page-bibliographie h2 {
-				color: #000000 /* Titres des sections en vert */
+				color: #000000 
 			}
 			
 			#page-bibliographie ul {
