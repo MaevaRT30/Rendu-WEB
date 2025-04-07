@@ -40,6 +40,13 @@ Enfin j'ai crée un id pour le "body" afin de pouvoir modifier le CSS de cette p
 * Une balise pour l'alignement du texte d'en l'en-tête
 * Une balise pour enlever les puces car elles ne correpodaient pas à ce que je voulais et je ne savaient pas comment les modifier.
 
+## Site 
+![Page d'acceuil](https://github.com/user-attachments/assets/f0319800-86b7-43a4-aec6-6f2b616996dd)
+![Page 2](https://github.com/user-attachments/assets/2b7b36b3-502a-4d41-aa69-5d103abbba85)
+![Page 3](https://github.com/user-attachments/assets/f52a21b9-1cf2-4984-9db4-89b59118a225)
+![Page bibliographie](https://github.com/user-attachments/assets/f57a34e5-255a-499e-b5e3-1b38d9cc61a9)
+![Page finale](https://github.com/user-attachments/assets/03dda2ed-f4a4-4f47-97a7-290e223f5b5b)
+
 ## Bibliographie et sitographie
 Site pour les images : 
 * Kowalski Jean-Marie. Thucydide, témoin des opérations navales dans la première phase de la guerre du Péloponnèse (431-415 av. J.‑C.). In: _Dialogues d'histoire ancienne_, vol. 40, n°1, 2014. p. 27-51. https://www.persee.fr/doc/dha_0755-7256_2014_num_40_1_3902
