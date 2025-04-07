@@ -8,9 +8,9 @@
 Ouverture dans Visual Studio Code.
 ### Transformation du code pour la page principale
 #### Modifications textes et images HTML
-Dans la section "head" transformation de la balise "title", change l'en-tête de la page web.
+Dans la section "head", j'ai transformé la balise "title", cela change l'en-tête de la page web.
 
-Ensuite, modification des "h1 / h2 / etc." dans toutes les sections du code, ce qui change les titres de la page principale.
+Ensuite, j'ai modifié les "h1 / h2 / etc." dans toutes les sections du code, ce qui change les titres de la page principale.
 * Première section : titre du mémoire
 * Deuxième et troisième sections : j'ai choisi de mettre des thèmes possibles pour mon mémoire
 * Troisième section : bibliographie et sources
@@ -19,8 +19,8 @@ Ensuite, modification des "h1 / h2 / etc." dans toutes les sections du code, ce 
 Après, à travers la balise "p", j'ai modifié le texte présent dans l'entièreté du site pour le faire correspondre au titre des sections. 
 
 J'ai ensuite mis des images sur le site. D'abord en les téléchargeant puis en les glissant dans le dossier "image". J'ai ensuite renommé le lien pour qu'il renvoi à la bonne image dans le dossier avec les balises "a" et "href" qui permettent de créer un hyperlien.
-* Rajout de "Target_blank" pour renvoyer vers le site de l'image (même chose pour chaque image)
-* Même chose pour les sites internets, cependant c'est en appuyant sur le bouton "détails" que cela renvoi au site internet.
+* J'ai rajouté "Target_blank" pour renvoyer vers le site de l'image (même chose pour chaque image)
+* J'ai fait la même chose pour les sites internets, cependant il faut appuyer sur le bouton "détails" pour que cela renvoi au site internet.
 * Dans le CSS, j'ai ajouté une balise "text-align : justify" pour que le texte soit justifié.
 
 #### Modifications des couleurs avec le CSS
@@ -28,11 +28,10 @@ Pour la section "banner" j'ai créé dans le fichier _main.css_ une section ".ba
 Pour le reste du site j'ai simplement dû trouver où était la fonction dans le CSS puis modifier celle-ci, que ce soit pour les boutons ou le fond car j'appliquais la même couleur sur tout le site.
 
 ### Création d'un lien vers une nouvelle page
-D'abord, j'ai ouvert et enregistré un nouveau document dans le dossier du site internet que j'ai nommé _"Bibliographie.html"_. Pour que le lien fonctionne dans la section _Bibliographie et sources_ de l'index html j'ai créé un lien pour le bouton "learn more" qui ouvre cette page.
-* Ensuite j'ai dû écrire une partie du code en reprenant ce qui avait été fait sur la page précédente principalement pour la tête. 
+D'abord, j'ai ouvert et enregistré un nouveau document dans le dossier du site internet que j'ai nommé _"Bibliographie.html"_. Pour que le lien fonctionne dans la section _Bibliographie et sources_ de l'index html j'ai créé un lien pour le bouton "learn more" qui ouvre cette page. Ensuite j'ai dû écrire une partie du code en reprenant ce qui avait été fait sur la page précédente principalement pour la tête. 
 * J'ai créé le corps avec un en-tête pour le titre, partie "header".
-* La balise "main" pour le contenu principal
-* Deux balises "section" pour les compartiments de cette page dans laquelle on trouve un "h2" pour le titre, et des balises "ul" et "li" pour les listes.
+* J'ai créé la balise "main" pour le contenu principal
+* J'ai créé deux balises "section" pour les compartiments de cette page dans laquelle on trouve un "h2" pour le titre, et des balises "ul" et "li" pour les listes.
 * J'ai utilisé la balise "em" pour mettre en italique les titres des ouvrages.
 
 Enfin j'ai créé un id pour le "body" afin de pouvoir modifier le CSS de cette page. Dans le CSS, à la fin j'ai ajouté :
