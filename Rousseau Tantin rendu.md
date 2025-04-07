@@ -18,17 +18,17 @@ Ensuite, j'ai modifié les "h1 / h2 / etc." dans toutes les sections du code, ce
 
 Après, à travers la balise "p", j'ai modifié le texte présent dans l'entièreté du site pour le faire correspondre au titre des sections. 
 
-J'ai ensuite mis des images sur le site. D'abord en les téléchargeant puis en les glissant dans le dossier "image". J'ai ensuite renommé le lien pour qu'il renvoi à la bonne image dans le dossier avec les balises "a" et "href" qui permettent de créer un hyperlien.
+J'ai ensuite mis des images sur le site. D'abord en les téléchargeant, puis en les glissant dans le dossier "image". J'ai ensuite renommé le lien pour qu'il renvoi à la bonne image dans le dossier avec les balises "a" et "href" qui permettent de créer un hyperlien.
 * J'ai rajouté "Target_blank" pour renvoyer vers le site de l'image (même chose pour chaque image)
 * J'ai fait la même chose pour les sites internets, cependant il faut appuyer sur le bouton "détails" pour que cela renvoi au site internet.
 * Dans le CSS, j'ai ajouté une balise "text-align : justify" pour que le texte soit justifié.
 
 #### Modifications des couleurs avec le CSS
-Pour la section "banner" j'ai créé dans le fichier _main.css_ une section ".banner" pour modifier la couleur du fond. Puis j'ai créé une section ".banner . button" pour modifier la couleur du bouton. Pour la couleur de l'écriture du bouton j'ai dû rajouter "!important" pour que le changement s'applique.
-Pour le reste du site j'ai simplement dû trouver où était la fonction dans le CSS puis modifier celle-ci, que ce soit pour les boutons ou le fond car j'appliquais la même couleur sur tout le site.
+Pour la section "banner", j'ai créé dans le fichier _main.css_ une section ".banner" pour modifier la couleur du fond. Puis, j'ai créé une section ".banner . button" pour modifier la couleur du bouton. Pour la couleur de l'écriture du bouton, j'ai dû rajouter "!important" pour que le changement s'applique.
+Pour le reste du site, j'ai simplement dû trouver où était la fonction dans le CSS puis modifier celle-ci, que ce soit pour les boutons ou le fond car j'ai appliqué la même couleur sur tout le site.
 
 ### Création d'un lien vers une nouvelle page
-D'abord, j'ai ouvert et enregistré un nouveau document dans le dossier du site internet que j'ai nommé _"Bibliographie.html"_. Pour que le lien fonctionne dans la section _Bibliographie et sources_ de l'index html j'ai créé un lien pour le bouton "learn more" qui ouvre cette page. Ensuite j'ai dû écrire une partie du code en reprenant ce qui avait été fait sur la page précédente principalement pour la tête. 
+D'abord, j'ai ouvert et enregistré un nouveau document dans le dossier du site internet que j'ai nommé _"Bibliographie.html"_. Pour que le lien fonctionne dans la section _Bibliographie et sources_ de l'index html, j'ai créé un lien pour le bouton "learn more" qui ouvre cette page. Ensuite, j'ai dû écrire une partie du code en reprenant ce qui avait été fait sur la page précédente principalement pour la tête. 
 * J'ai créé le corps avec un en-tête pour le titre, partie "header".
 * J'ai créé la balise "main" pour le contenu principal
 * J'ai créé deux balises "section" pour les compartiments de cette page dans laquelle on trouve un "h2" pour le titre, et des balises "ul" et "li" pour les listes.
@@ -40,7 +40,7 @@ Enfin j'ai créé un id pour le "body" afin de pouvoir modifier le CSS de cette 
 * Une balise pour l'alignement du texte dans l'en-tête
 * Une balise pour enlever les puces car elles ne correspondaient pas à ce que je voulais et je ne savais pas comment les modifier.
 
-Une des difficultés que j'ai souvent rencontré a été de trouver des informations sur les balises a utiliser en fonction de ce que je voulais faire sur le site.
+Une des difficultés que j'ai souvent rencontré a été de trouver des informations sur les balises à utiliser en fonction de ce que je voulais faire sur le site.
 
 ## Site 
 ![Page d'acceuil](https://github.com/user-attachments/assets/f0319800-86b7-43a4-aec6-6f2b616996dd)
