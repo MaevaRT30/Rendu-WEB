@@ -38,7 +38,7 @@ D'abord, j'ai ouvert et enregistré un nouveau document dans le dossier du site 
 Enfin j'ai créé un id pour le "body" afin de pouvoir modifier le CSS de cette page. Dans le CSS, à la fin j'ai ajouté :
 * Une balise de couleur pour les différentes parties
 * Une balise padding et margin pour l'espacement
-* Une balise pour l'alignement du texte d'en l'en-tête
+* Une balise pour l'alignement du texte dans l'en-tête
 * Une balise pour enlever les puces car elles ne correspondaient pas à ce que je voulais et je ne savais pas comment les modifier.
 
 Une des difficultés que j'ai souvent rencontré a été de trouver des informations sur les balises a utiliser en fonction de ce que je voulais faire sur le site.
