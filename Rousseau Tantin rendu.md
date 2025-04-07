@@ -21,6 +21,7 @@ Après, à travers la balise "p", j'ai modifié le texte présent dans l'entièr
 J'ai ensuite mis des images sur le site. D'abord en les téléchargeant puis en les glissant dans le dossier "image". J'ai ensuite renommé le lien pour qu'il renvoi à la bonne image dans le dossier avec les balises "a" et "href" qui permettent de créer un hyperlien.
 * Rajout de "Target_blank" pour renvoyer vers le site de l'image (même chose pour chaque image)
 * Même chose pour les sites internets, cependant c'est en appuyant sur le bouton "détails" que cela renvoi au site internet.
+* Dans le CSS, j'ai ajouté une balise "text-align : justify" pour que le texte soit justifié.
 
 #### Modification des couleurs avec le CSS
 Pour la section "banner" j'ai créé dans le fichier _main.css_ une section ".banner" pour modifier la couleur du fond. Puis j'ai créé une section ".banner . button" pour modifier la couleur du bouton. Pour la couleur de l'écriture du bouton j'ai dû rajouter "!important" pour que le changement s'applique.
@@ -39,6 +40,8 @@ Enfin j'ai créé un id pour le "body" afin de pouvoir modifier le CSS de cette 
 * Une balise padding et margin pour l'espacement
 * Une balise pour l'alignement du texte d'en l'en-tête
 * Une balise pour enlever les puces car elles ne correspondaient pas à ce que je voulais et je ne savait pas comment les modifier.
+
+Une des difficultés que j'ai souvent rencontré a été de trouver des informations sur les balises a utiliser en fonction de ce que je voulais faire sur le site.
 
 ## Site 
 ![Page d'acceuil](https://github.com/user-attachments/assets/f0319800-86b7-43a4-aec6-6f2b616996dd)
