@@ -5,16 +5,16 @@
 ### Choix du templates
 * Site : [HTML 5 UP](https://html5up.net/)
 * Choix templates **_Story_** car il permettait de pouvoir mettre des images et d'avoir plusieurs sections pour des thèmes du mémoire.
-Ouverture dans Visual Stuio Code.
+Ouverture dans Visual Studio Code.
 ### Transformation du code pour la page principale
-#### Modification textes et images HTML
+#### Modifications textes et images HTML
 Dans la section "head" transformation de la balise "title", change l'en-tête de la page web.
 
-Ensuite modification des "h1 / h2 / etc." dans toutes les sections du code, ce qui change les titres de la page principale.
-* Première section titre du mémoire
-* Deuxième et troisième sections, j'ai choisi de mettre des thèmes possibles pour mon mémoire
+Ensuite, modification des "h1 / h2 / etc." dans toutes les sections du code, ce qui change les titres de la page principale.
+* Première section : titre du mémoire
+* Deuxième et troisième sections : j'ai choisi de mettre des thèmes possibles pour mon mémoire
 * Troisième section : bibliographie et sources
-* Puis choix des différents titres du site.
+* Choix des différents titres du site.
 
 Après, à travers la balise "p", j'ai modifié le texte présent dans l'entièreté du site pour le faire correspondre au titre des sections. 
 
@@ -23,7 +23,7 @@ J'ai ensuite mis des images sur le site. D'abord en les téléchargeant puis en 
 * Même chose pour les sites internets, cependant c'est en appuyant sur le bouton "détails" que cela renvoi au site internet.
 * Dans le CSS, j'ai ajouté une balise "text-align : justify" pour que le texte soit justifié.
 
-#### Modification des couleurs avec le CSS
+#### Modifications des couleurs avec le CSS
 Pour la section "banner" j'ai créé dans le fichier _main.css_ une section ".banner" pour modifier la couleur du fond. Puis j'ai créé une section ".banner . button" pour modifier la couleur du bouton. Pour la couleur de l'écriture du bouton j'ai dû rajouter "!important" pour que le changement s'applique.
 Pour le reste du site j'ai simplement dû trouver où était la fonction dans le CSS puis modifier celle-ci, que ce soit pour les boutons ou le fond car j'appliquais la même couleur sur tout le site.
 
